@@ -55,7 +55,7 @@
   </dependencies>
     <profiles>
   <profile>
-  <id>	SanityId</id>
+  <id>SanityId</id>
   <build>
   <plugins>
     
