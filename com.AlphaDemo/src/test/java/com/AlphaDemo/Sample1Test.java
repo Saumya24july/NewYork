@@ -17,14 +17,7 @@ public class Sample1Test {
 		
 	}
 	
-	@Test(priority=2)
-	public void m2()
-	{
-		 driver = new ChromeDriver();
-		 driver.manage().window().maximize();
-		 driver.get("https://www.facebook.com");
-		
-	}
+	
 	
 	
 
