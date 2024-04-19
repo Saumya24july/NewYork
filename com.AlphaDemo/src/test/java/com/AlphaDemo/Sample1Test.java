@@ -11,6 +11,7 @@ public class Sample1Test {
 	@Test(priority=1)
 	public void m1()
 	{
+		//driver
 		 driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.news18.com");
